@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+  overflow-x: hidden;
+}
+.row{
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+#textBox {
+  resize: none;
+  height: 100%;
+  background-color: #3f3f3f;
+  color: #00ff00;
+}
+
+#markedText {
+  color: white;
+}
